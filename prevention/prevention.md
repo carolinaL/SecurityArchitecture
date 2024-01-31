@@ -8,7 +8,7 @@ Good cyber security prevention measurements are simple and cheap. So before inve
 ```{admonition} Make a daily-back of important data.
 :class: tip, dropdown
 
-A simple backup that works is cheap, simple and effective against many security threads. Having idiot proof backups is the most valuable weapon against ransomware. 
+A simple backup that works is cheap, simple and effective against many security threats. Having idiot proof backups is the most valuable weapon against ransomware. 
 
 
 Off-line, incorruptible, and disconnected backups – that cannot be encrypted by the malware – is a key corrective control that stops the malware from encrypting your ‘live’ data as well as the backed-up data.
